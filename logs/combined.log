@@ -1,0 +1,281 @@
+{"level":"info","message":"Environment variables validated successfully","service":"api-server","timestamp":"2025-05-13 18:14:40"}
+{"appUrl":"http://localhost:5000","level":"debug","message":"App configuration:","mongoUri":"mongodb+srv://***:***@db.tuuxm.mongodb.net/database?retryWrites=true&w=majority&appName=db","nodeEnv":"development","port":5000,"service":"api-server","timestamp":"2025-05-13 18:14:40"}
+{"level":"info","message":"Starting server initialization...","service":"api-server","timestamp":"2025-05-13 18:14:40"}
+{"level":"info","message":"Connecting to MongoDB...","service":"api-server","timestamp":"2025-05-13 18:14:40"}
+{"level":"info","message":"MongoDB Connected Successfully","service":"api-server","timestamp":"2025-05-13 18:14:46"}
+{"environment":"development","event":"AppStartup","level":"info","message":"Initializing Express application","service":"api-server","startupTime":"2025-05-14T01:14:46.776Z","timestamp":"2025-05-13 18:14:46"}
+{"event":"SecuritySetup","level":"info","message":"Applied Helmet security headers","service":"api-server","timestamp":"2025-05-13 18:14:46"}
+{"event":"SecuritySetup","level":"info","message":"Configured CORS","origins":["http://localhost:3000","http://localhost:8080"],"service":"api-server","timestamp":"2025-05-13 18:14:46"}
+{"event":"securitySetup","level":"info","limit":100,"message":"Applied rate limiting","service":"api-server","timestamp":"2025-05-13 18:14:46","window":"15 minutes"}
+{"event":"SecuritySetup","level":"info","message":"Applied HPP protection","service":"api-server","timestamp":"2025-05-13 18:14:46"}
+{"event":"AppSetup","level":"info","message":"Configured static file serving","service":"api-server","timestamp":"2025-05-13 18:14:46"}
+{"event":"AppSetup","level":"info","message":"Configured error handling middleware","service":"api-server","timestamp":"2025-05-13 18:14:46"}
+{"level":"info","message":"------------------------------------","service":"api-server","timestamp":"2025-05-13 18:14:46"}
+{"level":"info","message":"🚀 Server started successfully","service":"api-server","timestamp":"2025-05-13 18:14:46"}
+{"level":"info","message":"📝 Environment: development","service":"api-server","timestamp":"2025-05-13 18:14:46"}
+{"level":"info","message":"🌐 URL: http://localhost:5000","service":"api-server","timestamp":"2025-05-13 18:14:46"}
+{"level":"info","message":"🚪 Port: 5000","service":"api-server","timestamp":"2025-05-13 18:14:46"}
+{"level":"info","message":"📚 API: http://localhost:5000/api","service":"api-server","timestamp":"2025-05-13 18:14:46"}
+{"level":"info","message":"------------------------------------","service":"api-server","timestamp":"2025-05-13 18:14:46"}
+{"level":"info","message":"Environment variables validated successfully","service":"api-server","timestamp":"2025-05-13 18:16:13"}
+{"appUrl":"http://localhost:5000","level":"debug","message":"App configuration:","mongoUri":"mongodb+srv://***:***@db.tuuxm.mongodb.net/database?retryWrites=true&w=majority&appName=db","nodeEnv":"development","port":5000,"service":"api-server","timestamp":"2025-05-13 18:16:13"}
+{"level":"info","message":"Starting server initialization...","service":"api-server","timestamp":"2025-05-13 18:16:13"}
+{"level":"info","message":"Connecting to MongoDB...","service":"api-server","timestamp":"2025-05-13 18:16:13"}
+{"level":"info","message":"Environment variables validated successfully","service":"api-server","timestamp":"2025-05-13 18:16:14"}
+{"appUrl":"http://localhost:5000","level":"debug","message":"App configuration:","mongoUri":"mongodb+srv://***:***@db.tuuxm.mongodb.net/database?retryWrites=true&w=majority&appName=db","nodeEnv":"development","port":5000,"service":"api-server","timestamp":"2025-05-13 18:16:14"}
+{"level":"info","message":"Starting server initialization...","service":"api-server","timestamp":"2025-05-13 18:16:14"}
+{"level":"info","message":"Connecting to MongoDB...","service":"api-server","timestamp":"2025-05-13 18:16:14"}
+{"level":"info","message":"MongoDB Connected Successfully","service":"api-server","timestamp":"2025-05-13 18:16:19"}
+{"environment":"development","event":"AppStartup","level":"info","message":"Initializing Express application","service":"api-server","startupTime":"2025-05-14T01:16:19.668Z","timestamp":"2025-05-13 18:16:19"}
+{"event":"SecuritySetup","level":"info","message":"Applied Helmet security headers","service":"api-server","timestamp":"2025-05-13 18:16:19"}
+{"event":"SecuritySetup","level":"info","message":"Configured CORS","origins":["http://localhost:3000","http://localhost:8080"],"service":"api-server","timestamp":"2025-05-13 18:16:19"}
+{"event":"securitySetup","level":"info","limit":100,"message":"Applied rate limiting","service":"api-server","timestamp":"2025-05-13 18:16:19","window":"15 minutes"}
+{"event":"SecuritySetup","level":"info","message":"Applied HPP protection","service":"api-server","timestamp":"2025-05-13 18:16:19"}
+{"event":"AppSetup","level":"info","message":"Configured static file serving","service":"api-server","timestamp":"2025-05-13 18:16:19"}
+{"event":"AppSetup","level":"info","message":"Configured error handling middleware","service":"api-server","timestamp":"2025-05-13 18:16:19"}
+{"level":"info","message":"------------------------------------","service":"api-server","timestamp":"2025-05-13 18:16:19"}
+{"level":"info","message":"🚀 Server started successfully","service":"api-server","timestamp":"2025-05-13 18:16:19"}
+{"level":"info","message":"📝 Environment: development","service":"api-server","timestamp":"2025-05-13 18:16:19"}
+{"level":"info","message":"🌐 URL: http://localhost:5000","service":"api-server","timestamp":"2025-05-13 18:16:19"}
+{"level":"info","message":"🚪 Port: 5000","service":"api-server","timestamp":"2025-05-13 18:16:19"}
+{"level":"info","message":"📚 API: http://localhost:5000/api","service":"api-server","timestamp":"2025-05-13 18:16:19"}
+{"level":"info","message":"------------------------------------","service":"api-server","timestamp":"2025-05-13 18:16:19"}
+{"level":"info","message":"Environment variables validated successfully","service":"api-server","timestamp":"2025-05-13 18:16:24"}
+{"appUrl":"http://localhost:5000","level":"debug","message":"App configuration:","mongoUri":"mongodb+srv://***:***@db.tuuxm.mongodb.net/database?retryWrites=true&w=majority&appName=db","nodeEnv":"development","port":5000,"service":"api-server","timestamp":"2025-05-13 18:16:24"}
+{"level":"info","message":"Starting server initialization...","service":"api-server","timestamp":"2025-05-13 18:16:24"}
+{"level":"info","message":"Connecting to MongoDB...","service":"api-server","timestamp":"2025-05-13 18:16:24"}
+{"level":"info","message":"MongoDB Connected Successfully","service":"api-server","timestamp":"2025-05-13 18:16:26"}
+{"environment":"development","event":"AppStartup","level":"info","message":"Initializing Express application","service":"api-server","startupTime":"2025-05-14T01:16:26.396Z","timestamp":"2025-05-13 18:16:26"}
+{"event":"SecuritySetup","level":"info","message":"Applied Helmet security headers","service":"api-server","timestamp":"2025-05-13 18:16:26"}
+{"event":"SecuritySetup","level":"info","message":"Configured CORS","origins":["http://localhost:3000","http://localhost:8080"],"service":"api-server","timestamp":"2025-05-13 18:16:26"}
+{"event":"securitySetup","level":"info","limit":100,"message":"Applied rate limiting","service":"api-server","timestamp":"2025-05-13 18:16:26","window":"15 minutes"}
+{"event":"SecuritySetup","level":"info","message":"Applied HPP protection","service":"api-server","timestamp":"2025-05-13 18:16:26"}
+{"event":"AppSetup","level":"info","message":"Configured static file serving","service":"api-server","timestamp":"2025-05-13 18:16:26"}
+{"event":"AppSetup","level":"info","message":"Configured error handling middleware","service":"api-server","timestamp":"2025-05-13 18:16:26"}
+{"level":"info","message":"------------------------------------","service":"api-server","timestamp":"2025-05-13 18:16:26"}
+{"level":"info","message":"🚀 Server started successfully","service":"api-server","timestamp":"2025-05-13 18:16:26"}
+{"level":"info","message":"📝 Environment: development","service":"api-server","timestamp":"2025-05-13 18:16:26"}
+{"level":"info","message":"🌐 URL: http://localhost:5000","service":"api-server","timestamp":"2025-05-13 18:16:26"}
+{"level":"info","message":"🚪 Port: 5000","service":"api-server","timestamp":"2025-05-13 18:16:26"}
+{"level":"info","message":"📚 API: http://localhost:5000/api","service":"api-server","timestamp":"2025-05-13 18:16:26"}
+{"level":"info","message":"------------------------------------","service":"api-server","timestamp":"2025-05-13 18:16:26"}
+{"level":"\u001b[92minfo\u001b[39m","message":"\u001b[92mEnvironment variables validated successfully\u001b[39m","service":"api-server","timestamp":"2025-05-13 18:17:01"}
+{"appUrl":"http://localhost:5000","level":"\u001b[96mdebug\u001b[39m","message":"\u001b[96mApp configuration:\u001b[39m","mongoUri":"mongodb+srv://***:***@db.tuuxm.mongodb.net/database?retryWrites=true&w=majority&appName=db","nodeEnv":"development","port":5000,"service":"api-server","timestamp":"2025-05-13 18:17:01"}
+{"level":"\u001b[92minfo\u001b[39m","message":"\u001b[92mStarting server initialization...\u001b[39m","service":"api-server","timestamp":"2025-05-13 18:17:01"}
+{"level":"\u001b[92minfo\u001b[39m","message":"\u001b[92mConnecting to MongoDB...\u001b[39m","service":"api-server","timestamp":"2025-05-13 18:17:01"}
+{"level":"\u001b[92minfo\u001b[39m","message":"\u001b[92mMongoDB Connected Successfully\u001b[39m","service":"api-server","timestamp":"2025-05-13 18:17:05"}
+{"environment":"development","event":"AppStartup","level":"\u001b[92minfo\u001b[39m","message":"Initializing Express application","service":"api-server","startupTime":"2025-05-14T01:17:05.151Z","timestamp":"2025-05-13 18:17:05"}
+{"event":"SecuritySetup","level":"\u001b[92minfo\u001b[39m","message":"Applied Helmet security headers","service":"api-server","timestamp":"2025-05-13 18:17:05"}
+{"event":"SecuritySetup","level":"\u001b[92minfo\u001b[39m","message":"Configured CORS","origins":["http://localhost:3000","http://localhost:8080"],"service":"api-server","timestamp":"2025-05-13 18:17:05"}
+{"event":"securitySetup","level":"\u001b[92minfo\u001b[39m","limit":100,"message":"Applied rate limiting","service":"api-server","timestamp":"2025-05-13 18:17:05","window":"15 minutes"}
+{"event":"SecuritySetup","level":"\u001b[92minfo\u001b[39m","message":"Applied HPP protection","service":"api-server","timestamp":"2025-05-13 18:17:05"}
+{"event":"AppSetup","level":"\u001b[92minfo\u001b[39m","message":"Configured static file serving","service":"api-server","timestamp":"2025-05-13 18:17:05"}
+{"event":"AppSetup","level":"\u001b[92minfo\u001b[39m","message":"Configured error handling middleware","service":"api-server","timestamp":"2025-05-13 18:17:05"}
+{"level":"\u001b[92minfo\u001b[39m","message":"\u001b[92m------------------------------------\u001b[39m","service":"api-server","timestamp":"2025-05-13 18:17:05"}
+{"level":"\u001b[92minfo\u001b[39m","message":"\u001b[92m🚀 Server started successfully\u001b[39m","service":"api-server","timestamp":"2025-05-13 18:17:05"}
+{"level":"\u001b[92minfo\u001b[39m","message":"\u001b[92m📝 Environment: development\u001b[39m","service":"api-server","timestamp":"2025-05-13 18:17:05"}
+{"level":"\u001b[92minfo\u001b[39m","message":"\u001b[92m🌐 URL: http://localhost:5000\u001b[39m","service":"api-server","timestamp":"2025-05-13 18:17:05"}
+{"level":"\u001b[92minfo\u001b[39m","message":"\u001b[92m🚪 Port: 5000\u001b[39m","service":"api-server","timestamp":"2025-05-13 18:17:05"}
+{"level":"\u001b[92minfo\u001b[39m","message":"\u001b[92m📚 API: http://localhost:5000/api\u001b[39m","service":"api-server","timestamp":"2025-05-13 18:17:05"}
+{"level":"\u001b[92minfo\u001b[39m","message":"\u001b[92m------------------------------------\u001b[39m","service":"api-server","timestamp":"2025-05-13 18:17:05"}
+2025-05-13 18:19:15 [info]: Environment variables validated successfully {"service":"api-server"}
+2025-05-13 18:19:15 [debug]: App configuration: {"service":"api-server","nodeEnv":"development","port":5000,"mongoUri":"mongodb+srv://***:***@db.tuuxm.mongodb.net/database?retryWrites=true&w=majority&appName=db","appUrl":"http://localhost:5000"}
+2025-05-13 18:19:15 [info]: Starting server initialization... {"service":"api-server"}
+2025-05-13 18:19:15 [info]: Connecting to MongoDB... {"service":"api-server"}
+2025-05-13 18:19:20 [info]: MongoDB Connected Successfully {"service":"api-server"}
+2025-05-13 18:19:20 [info]: System Event Initializing Express application {"service":"api-server","event":"AppStartup","environment":"development","startupTime":"2025-05-14T01:19:20.215Z"}
+2025-05-13 18:19:20 [info]: System Event Applied Helmet security headers {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:19:20 [info]: System Event Configured CORS {"service":"api-server","event":"SecuritySetup","origins":["http://localhost:3000","http://localhost:8080"]}
+2025-05-13 18:19:20 [info]: System Event Applied rate limiting {"service":"api-server","event":"securitySetup","window":"15 minutes","limit":100}
+2025-05-13 18:19:20 [info]: System Event Applied HPP protection {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:19:20 [info]: System Event Configured static file serving {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:19:20 [info]: System Event Configured error handling middleware {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:19:20 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 18:19:20 [info]: 🚀 Server started successfully {"service":"api-server"}
+2025-05-13 18:19:20 [info]: 📝 Environment: development {"service":"api-server"}
+2025-05-13 18:19:20 [info]: 🌐 URL: http://localhost:5000 {"service":"api-server"}
+2025-05-13 18:19:20 [info]: 🚪 Port: 5000 {"service":"api-server"}
+2025-05-13 18:19:20 [info]: 📚 API: http://localhost:5000/api {"service":"api-server"}
+2025-05-13 18:19:20 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 18:19:24 [info]: Environment variables validated successfully {"service":"api-server"}
+2025-05-13 18:19:24 [debug]: App configuration: {"service":"api-server","nodeEnv":"development","port":5000,"mongoUri":"mongodb+srv://***:***@db.tuuxm.mongodb.net/database?retryWrites=true&w=majority&appName=db","appUrl":"http://localhost:5000"}
+2025-05-13 18:19:24 [info]: Starting server initialization... {"service":"api-server"}
+2025-05-13 18:19:24 [info]: Connecting to MongoDB... {"service":"api-server"}
+2025-05-13 18:19:25 [info]: MongoDB Connected Successfully {"service":"api-server"}
+2025-05-13 18:19:25 [info]: System Event Initializing Express application {"service":"api-server","event":"AppStartup","environment":"development","startupTime":"2025-05-14T01:19:25.964Z"}
+2025-05-13 18:19:25 [info]: System Event Applied Helmet security headers {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:19:25 [info]: System Event Configured CORS {"service":"api-server","event":"SecuritySetup","origins":["http://localhost:3000","http://localhost:8080"]}
+2025-05-13 18:19:25 [info]: System Event Applied rate limiting {"service":"api-server","event":"securitySetup","window":"15 minutes","limit":100}
+2025-05-13 18:19:25 [info]: System Event Applied HPP protection {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:19:25 [info]: System Event Configured static file serving {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:19:25 [info]: System Event Configured error handling middleware {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:19:25 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 18:19:25 [info]: 🚀 Server started successfully {"service":"api-server"}
+2025-05-13 18:19:25 [info]: 📝 Environment: development {"service":"api-server"}
+2025-05-13 18:19:25 [info]: 🌐 URL: http://localhost:5000 {"service":"api-server"}
+2025-05-13 18:19:25 [info]: 🚪 Port: 5000 {"service":"api-server"}
+2025-05-13 18:19:25 [info]: 📚 API: http://localhost:5000/api {"service":"api-server"}
+2025-05-13 18:19:25 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 18:20:59 [info]: Environment variables validated successfully {"service":"api-server"}
+2025-05-13 18:20:59 [debug]: App configuration: {"service":"api-server","nodeEnv":"development","port":5000,"mongoUri":"mongodb+srv://***:***@db.tuuxm.mongodb.net/database?retryWrites=true&w=majority&appName=db","appUrl":"http://localhost:5000"}
+2025-05-13 18:20:59 [info]: Starting server initialization... {"service":"api-server"}
+2025-05-13 18:20:59 [info]: Connecting to MongoDB... {"service":"api-server"}
+2025-05-13 18:21:07 [info]: MongoDB Connected Successfully {"service":"api-server"}
+2025-05-13 18:21:07 [info]: System Event Initializing Express application {"service":"api-server","event":"AppStartup","environment":"development","startupTime":"2025-05-14T01:21:07.749Z"}
+2025-05-13 18:21:07 [info]: System Event Applied Helmet security headers {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:21:07 [info]: System Event Configured CORS {"service":"api-server","event":"SecuritySetup","origins":["http://localhost:3000","http://localhost:8080"]}
+2025-05-13 18:21:07 [info]: System Event Applied rate limiting {"service":"api-server","event":"securitySetup","window":"15 minutes","limit":100}
+2025-05-13 18:21:07 [info]: System Event Applied HPP protection {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:21:07 [info]: System Event Configured static file serving {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:21:07 [info]: System Event Configured error handling middleware {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:21:07 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 18:21:07 [info]: 🚀 Server started successfully {"service":"api-server"}
+2025-05-13 18:21:07 [info]: 📝 Environment: development {"service":"api-server"}
+2025-05-13 18:21:07 [info]: 🌐 URL: http://localhost:5000 {"service":"api-server"}
+2025-05-13 18:21:07 [info]: 🚪 Port: 5000 {"service":"api-server"}
+2025-05-13 18:21:07 [info]: 📚 API: http://localhost:5000/api {"service":"api-server"}
+2025-05-13 18:21:07 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 18:21:13 [info]: Environment variables validated successfully {"service":"api-server"}
+2025-05-13 18:21:13 [debug]: App configuration: {"service":"api-server","nodeEnv":"development","port":5000,"mongoUri":"mongodb+srv://***:***@db.tuuxm.mongodb.net/database?retryWrites=true&w=majority&appName=db","appUrl":"http://localhost:5000"}
+2025-05-13 18:21:13 [info]: Starting server initialization... {"service":"api-server"}
+2025-05-13 18:21:13 [info]: Connecting to MongoDB... {"service":"api-server"}
+2025-05-13 18:21:15 [info]: MongoDB Connected Successfully {"service":"api-server"}
+2025-05-13 18:21:15 [info]: System Event Initializing Express application {"service":"api-server","event":"AppStartup","environment":"development","startupTime":"2025-05-14T01:21:15.246Z"}
+2025-05-13 18:21:15 [info]: System Event Applied Helmet security headers {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:21:15 [info]: System Event Configured CORS {"service":"api-server","event":"SecuritySetup","origins":["http://localhost:3000","http://localhost:8080"]}
+2025-05-13 18:21:15 [info]: System Event Applied rate limiting {"service":"api-server","event":"securitySetup","window":"15 minutes","limit":100}
+2025-05-13 18:21:15 [info]: System Event Applied HPP protection {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:21:15 [info]: System Event Configured static file serving {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:21:15 [info]: System Event Configured error handling middleware {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:21:15 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 18:21:15 [info]: 🚀 Server started successfully {"service":"api-server"}
+2025-05-13 18:21:15 [info]: 📝 Environment: development {"service":"api-server"}
+2025-05-13 18:21:15 [info]: 🌐 URL: http://localhost:5000 {"service":"api-server"}
+2025-05-13 18:21:15 [info]: 🚪 Port: 5000 {"service":"api-server"}
+2025-05-13 18:21:15 [info]: 📚 API: http://localhost:5000/api {"service":"api-server"}
+2025-05-13 18:21:15 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 18:22:49 [info]: Environment variables validated successfully {"service":"api-server"}
+2025-05-13 18:22:49 [debug]: App configuration: {"service":"api-server","nodeEnv":"development","port":5000,"mongoUri":"mongodb+srv://***:***@db.tuuxm.mongodb.net/database?retryWrites=true&w=majority&appName=db","appUrl":"http://localhost:5000"}
+2025-05-13 18:22:49 [info]: Starting server initialization... {"service":"api-server"}
+2025-05-13 18:22:49 [info]: Connecting to MongoDB... {"service":"api-server"}
+2025-05-13 18:22:54 [info]: MongoDB Connected Successfully {"service":"api-server"}
+2025-05-13 18:22:54 [info]: System Event Initializing Express application {"service":"api-server","event":"AppStartup","environment":"development","startupTime":"2025-05-14T01:22:54.017Z"}
+2025-05-13 18:22:54 [info]: System Event Applied Helmet security headers {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:22:54 [info]: System Event Configured CORS {"service":"api-server","event":"SecuritySetup","origins":["http://localhost:3000","http://localhost:8080"]}
+2025-05-13 18:22:54 [info]: System Event Applied rate limiting {"service":"api-server","event":"securitySetup","window":"15 minutes","limit":100}
+2025-05-13 18:22:54 [info]: System Event Applied HPP protection {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:22:54 [info]: System Event Configured static file serving {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:22:54 [info]: System Event Configured error handling middleware {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:22:54 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 18:22:54 [info]: 🚀 Server started successfully {"service":"api-server"}
+2025-05-13 18:22:54 [info]: 📝 Environment: development {"service":"api-server"}
+2025-05-13 18:22:54 [info]: 🌐 URL: http://localhost:5000 {"service":"api-server"}
+2025-05-13 18:22:54 [info]: 🚪 Port: 5000 {"service":"api-server"}
+2025-05-13 18:22:54 [info]: 📚 API: http://localhost:5000/api {"service":"api-server"}
+2025-05-13 18:22:54 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 18:23:36 [info]: Environment variables validated successfully {"service":"api-server"}
+2025-05-13 18:23:36 [debug]: App configuration: {"service":"api-server","nodeEnv":"development","port":5000,"mongoUri":"mongodb+srv://***:***@db.tuuxm.mongodb.net/database?retryWrites=true&w=majority&appName=db","appUrl":"http://localhost:5000"}
+2025-05-13 18:23:36 [info]: Starting server initialization... {"service":"api-server"}
+2025-05-13 18:23:36 [info]: Connecting to MongoDB... {"service":"api-server"}
+2025-05-13 18:23:41 [info]: MongoDB Connected Successfully {"service":"api-server"}
+2025-05-13 18:23:41 [info]: System Event Initializing Express application {"service":"api-server","event":"AppStartup","environment":"development","startupTime":"2025-05-14T01:23:41.300Z"}
+2025-05-13 18:23:41 [info]: System Event Applied Helmet security headers {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:23:41 [info]: System Event Configured CORS {"service":"api-server","event":"SecuritySetup","origins":["http://localhost:3000","http://localhost:8080"]}
+2025-05-13 18:23:41 [info]: System Event Applied rate limiting {"service":"api-server","event":"securitySetup","window":"15 minutes","limit":100}
+2025-05-13 18:23:41 [info]: System Event Applied HPP protection {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:23:41 [info]: System Event Configured static file serving {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:23:41 [info]: System Event Configured error handling middleware {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:23:41 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 18:23:41 [info]: 🚀 Server started successfully {"service":"api-server"}
+2025-05-13 18:23:41 [info]: 📝 Environment: development {"service":"api-server"}
+2025-05-13 18:23:41 [info]: 🌐 URL: http://localhost:5000 {"service":"api-server"}
+2025-05-13 18:23:41 [info]: 🚪 Port: 5000 {"service":"api-server"}
+2025-05-13 18:23:41 [info]: 📚 API: http://localhost:5000/api {"service":"api-server"}
+2025-05-13 18:23:41 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 18:31:45 [info]: SIGTERM received. Shutting down gracefully {"service":"api-server"}
+2025-05-13 18:31:45 [info]: Environment variables validated successfully {"service":"api-server"}
+2025-05-13 18:31:45 [debug]: App configuration: {"service":"api-server","nodeEnv":"development","port":5000,"mongoUri":"mongodb+srv://***:***@db.tuuxm.mongodb.net/database?retryWrites=true&w=majority&appName=db","appUrl":"http://localhost:5000"}
+2025-05-13 18:31:45 [info]: Starting server initialization... {"service":"api-server"}
+2025-05-13 18:31:45 [info]: Connecting to MongoDB... {"service":"api-server"}
+2025-05-13 18:31:50 [info]: Environment variables validated successfully {"service":"api-server"}
+2025-05-13 18:31:50 [debug]: App configuration: {"service":"api-server","nodeEnv":"development","port":5000,"mongoUri":"mongodb+srv://***:***@db.tuuxm.mongodb.net/database?retryWrites=true&w=majority&appName=db","appUrl":"http://localhost:5000"}
+2025-05-13 18:31:50 [info]: Starting server initialization... {"service":"api-server"}
+2025-05-13 18:31:50 [info]: Connecting to MongoDB... {"service":"api-server"}
+2025-05-13 18:31:52 [info]: MongoDB Connected Successfully {"service":"api-server"}
+2025-05-13 18:31:52 [info]: System Event Initializing Express application {"service":"api-server","event":"AppStartup","environment":"development","startupTime":"2025-05-14T01:31:52.097Z"}
+2025-05-13 18:31:52 [info]: System Event Applied Helmet security headers {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:31:52 [info]: System Event Configured CORS {"service":"api-server","event":"SecuritySetup","origins":["http://localhost:3000","http://localhost:8080"]}
+2025-05-13 18:31:52 [info]: System Event Applied rate limiting {"service":"api-server","event":"securitySetup","window":"15 minutes","limit":100}
+2025-05-13 18:31:52 [info]: System Event Applied HPP protection {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:31:52 [info]: System Event Configured static file serving {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:31:52 [info]: System Event Configured error handling middleware {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:31:52 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 18:31:52 [info]: 🚀 Server started successfully {"service":"api-server"}
+2025-05-13 18:31:52 [info]: 📝 Environment: development {"service":"api-server"}
+2025-05-13 18:31:52 [info]: 🌐 URL: http://localhost:5000 {"service":"api-server"}
+2025-05-13 18:31:52 [info]: 🚪 Port: 5000 {"service":"api-server"}
+2025-05-13 18:31:52 [info]: 📚 API: http://localhost:5000/api {"service":"api-server"}
+2025-05-13 18:31:52 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 18:40:36 [info]: SIGTERM received. Shutting down gracefully {"service":"api-server"}
+2025-05-13 18:40:36 [info]: Environment variables validated successfully {"service":"api-server"}
+2025-05-13 18:40:36 [debug]: App configuration: {"service":"api-server","nodeEnv":"development","port":5000,"mongoUri":"mongodb+srv://***:***@db.tuuxm.mongodb.net/database?retryWrites=true&w=majority&appName=db","appUrl":"http://localhost:5000"}
+2025-05-13 18:40:36 [info]: Starting server initialization... {"service":"api-server"}
+2025-05-13 18:40:36 [info]: Connecting to MongoDB... {"service":"api-server"}
+2025-05-13 18:40:42 [info]: MongoDB Connected Successfully {"service":"api-server"}
+2025-05-13 18:40:42 [info]: System Event Initializing Express application {"service":"api-server","event":"AppStartup","environment":"development","startupTime":"2025-05-14T01:40:42.119Z"}
+2025-05-13 18:40:42 [info]: System Event Applied Helmet security headers {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:40:42 [info]: System Event Configured CORS {"service":"api-server","event":"SecuritySetup","origins":["http://localhost:3000","http://localhost:8080"]}
+2025-05-13 18:40:42 [info]: System Event Applied rate limiting {"service":"api-server","event":"securitySetup","window":"15 minutes","limit":100}
+2025-05-13 18:40:42 [info]: System Event Applied HPP protection {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:40:42 [info]: System Event Configured static file serving {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:40:42 [info]: System Event Configured error handling middleware {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:40:42 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 18:40:42 [info]: 🚀 Server started successfully {"service":"api-server"}
+2025-05-13 18:40:42 [info]: 📝 Environment: development {"service":"api-server"}
+2025-05-13 18:40:42 [info]: 🌐 URL: http://localhost:5000 {"service":"api-server"}
+2025-05-13 18:40:42 [info]: 🚪 Port: 5000 {"service":"api-server"}
+2025-05-13 18:40:42 [info]: 📚 API: http://localhost:5000/api {"service":"api-server"}
+2025-05-13 18:40:42 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 18:41:26 [info]: SIGTERM received. Shutting down gracefully {"service":"api-server"}
+2025-05-13 18:41:26 [info]: Environment variables validated successfully {"service":"api-server"}
+2025-05-13 18:41:26 [debug]: App configuration: {"service":"api-server","nodeEnv":"development","port":5000,"mongoUri":"mongodb+srv://***:***@db.tuuxm.mongodb.net/database?retryWrites=true&w=majority&appName=db","appUrl":"http://localhost:5000"}
+2025-05-13 18:41:26 [info]: Starting server initialization... {"service":"api-server"}
+2025-05-13 18:41:26 [info]: Connecting to MongoDB... {"service":"api-server"}
+2025-05-13 18:41:31 [info]: MongoDB Connected Successfully {"service":"api-server"}
+2025-05-13 18:41:31 [info]: System Event Initializing Express application {"service":"api-server","event":"AppStartup","environment":"development","startupTime":"2025-05-14T01:41:31.673Z"}
+2025-05-13 18:41:31 [info]: System Event Applied Helmet security headers {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:41:31 [info]: System Event Configured CORS {"service":"api-server","event":"SecuritySetup","origins":["http://localhost:3000","http://localhost:8080"]}
+2025-05-13 18:41:31 [info]: System Event Applied rate limiting {"service":"api-server","event":"securitySetup","window":"15 minutes","limit":100}
+2025-05-13 18:41:31 [info]: System Event Applied HPP protection {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:41:31 [info]: System Event Configured static file serving {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:41:31 [info]: System Event Configured error handling middleware {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:41:31 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 18:41:31 [info]: 🚀 Server started successfully {"service":"api-server"}
+2025-05-13 18:41:31 [info]: 📝 Environment: development {"service":"api-server"}
+2025-05-13 18:41:31 [info]: 🌐 URL: http://localhost:5000 {"service":"api-server"}
+2025-05-13 18:41:31 [info]: 🚪 Port: 5000 {"service":"api-server"}
+2025-05-13 18:41:31 [info]: 📚 API: http://localhost:5000/api {"service":"api-server"}
+2025-05-13 18:41:31 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 18:55:06 [info]: Environment variables validated successfully {"service":"api-server"}
+2025-05-13 18:55:06 [debug]: App configuration: {"service":"api-server","nodeEnv":"development","port":5000,"mongoUri":"mongodb+srv://***:***@db.tuuxm.mongodb.net/database?retryWrites=true&w=majority&appName=db","appUrl":"http://localhost:5000"}
+2025-05-13 18:55:06 [info]: Starting server initialization... {"service":"api-server"}
+2025-05-13 18:55:06 [info]: Connecting to MongoDB... {"service":"api-server"}
+2025-05-13 18:55:11 [info]: MongoDB Connected Successfully {"service":"api-server"}
+2025-05-13 18:55:11 [info]: System Event Initializing Express application {"service":"api-server","event":"AppStartup","environment":"development","startupTime":"2025-05-14T01:55:11.692Z"}
+2025-05-13 18:55:11 [info]: System Event Applied Helmet security headers {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:55:11 [info]: System Event Configured CORS {"service":"api-server","event":"SecuritySetup","origins":["http://localhost:3000","http://localhost:8080"]}
+2025-05-13 18:55:11 [info]: System Event Applied rate limiting {"service":"api-server","event":"securitySetup","window":"15 minutes","limit":100}
+2025-05-13 18:55:11 [info]: System Event Applied HPP protection {"service":"api-server","event":"SecuritySetup"}
+2025-05-13 18:55:11 [info]: System Event Configured static file serving {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:55:11 [info]: System Event Configured error handling middleware {"service":"api-server","event":"AppSetup"}
+2025-05-13 18:55:11 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 18:55:11 [info]: 🚀 Server started successfully {"service":"api-server"}
+2025-05-13 18:55:11 [info]: 📝 Environment: development {"service":"api-server"}
+2025-05-13 18:55:11 [info]: 🌐 URL: http://localhost:5000 {"service":"api-server"}
+2025-05-13 18:55:11 [info]: 🚪 Port: 5000 {"service":"api-server"}
+2025-05-13 18:55:11 [info]: 📚 API: http://localhost:5000/api {"service":"api-server"}
+2025-05-13 18:55:11 [info]: ------------------------------------ {"service":"api-server"}
+2025-05-13 19:15:02 [warn]: MongoDB disconnected. Attempting to reconnect... {"service":"api-server"}
+2025-05-13 19:15:13 [info]: MongoDB reconnected successfully {"service":"api-server"}
+2025-05-13 19:17:54 [warn]: MongoDB disconnected. Attempting to reconnect... {"service":"api-server"}
+2025-05-13 19:18:08 [info]: MongoDB reconnected successfully {"service":"api-server"}
