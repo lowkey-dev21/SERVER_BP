@@ -78,6 +78,17 @@ const fileFormat = winston.format.combine(
     })
 );
 
+/**
+ * Get the current day's filename with format: dayname-YYYY-MM-DD.log
+ */
+const getDailyFilename = (prefix: string = ''): string => {
+    const days = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday'];
+    const date = new Date();
+    const dayName = days[date.getDay()];
+    const formattedDate = date.toISOString().split('T')[0]; // YYYY-MM-DD
+    return `${prefix}${dayName}-${formattedDate}.log`;
+};
+
 // Create a transport array
 const transports: winston.transport[] = [];
 
@@ -95,12 +106,12 @@ if (loggerConfig.logToConsole) {
 if (loggerConfig.logToFile) {
     transports.push(
         new winston.transports.File({
-            filename: path.join(logDir, 'error.log'),
+            filename: path.join(logDir, getDailyFilename('error-')),
             level: 'error',
             format: fileFormat
         }),
         new winston.transports.File({
-            filename: path.join(logDir, 'combined.log'),
+            filename: path.join(logDir, getDailyFilename()),
             level: loggerConfig.logLevel,
             format: fileFormat
         })
@@ -116,13 +127,13 @@ const logger = winston.createLogger({
     transports,
     exceptionHandlers: [
         new winston.transports.File({
-            filename: path.join(logDir, 'exceptions.log'),
+            filename: path.join(logDir, getDailyFilename('exception-')),
             format: fileFormat
         })
     ],
     rejectionHandlers: [
         new winston.transports.File({
-            filename: path.join(logDir, 'rejections.log'),
+            filename: path.join(logDir, getDailyFilename('rejection-')),
             format: fileFormat
         })
     ],
